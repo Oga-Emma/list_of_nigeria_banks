@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string-array name="list_of_banks">
+        <item>Access Bank</item>
+        <item>Citibank</item>
+        <item>Diamond Bank</item>
+        <item>Ecobank</item>
+        <item>Enterprise Bank Limited</item>
+        <item>Fidelity Bank Nigeria</item>
+        <item>First Bank of Nigeria</item>
+        <item>First City Monument Bank</item>
+        <item>FSDH Merchant Bank</item>
+        <item>Guaranty Trust Bank</item>
+        <item>Heritage Bank Plc.</item>
+        <item>Keystone Bank Limited</item>
+        <item>Mainstreet Bank Limited</item>
+        <item>Rand Merchant Bank</item>
+        <item>Savanna Bank</item>
+        <item>Skye Bank</item>
+        <item>Stanbic IBTC Bank Nigeria Limited</item>
+        <item>Standard Chartered Bank</item>
+        <item>Sterling Bank</item>
+        <item>Union Bank of Nigeria</item>
+        <item>(UBA) United Bank for Africa</item>
+        <item>Unity Bank Plc</item>
+        <item>Wema Bank</item>
+        <item>Zenit Bank</item>
+    </string-array>
+    
+</resources>
